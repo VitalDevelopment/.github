@@ -1,5 +1,7 @@
-## Hi there 👋
 
+## VitalDevelopment
+
+Vital Development is a team of developers working on projects to better benefit the public.
 <!--
 
 **Here are some ideas to get you started:**
